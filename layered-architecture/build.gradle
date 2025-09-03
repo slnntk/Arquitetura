@@ -1,0 +1,4 @@
+description = 'Layered Architecture Example'
+
+// This module inherits all configurations from the parent build.gradle
+// Additional module-specific dependencies can be added here if needed
